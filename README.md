@@ -3,7 +3,7 @@
 A responsive, client-side Book Reading List web application developed for **Lecture 11** coursework at JECRC University by **Akshay sharma**.
 
 ## Live Application
-- **Live Deployment**: [tps://ayankhanbebea-lgtm.github.io/book-reading-list-application/](https://ayahtnkhanbebea-lgtm.github.io/book-reading-list-application/)
+- **Live Deployment**: [https://quiz-n7cr.vercel.app/]
 
 ---
 
@@ -36,7 +36,7 @@ This application helps students and developers curate, organize, and monitor the
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayankhanbebea-lgtm/book-reading-list-application.git
+   git clone https://github.com/akshayoriginal19-ux/boomark2/edit/main/README.md
    ```
 2. Navigate into the project directory:
    ```bash
